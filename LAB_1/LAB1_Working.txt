@@ -18,9 +18,9 @@ B.Tech. (CSE) 6th Semester
 
 
 Submitted To:                                                         Submitted By:
-Mr. Ayush Singh                                                             Abhishek Kumar 
+Mr. Ayush Singh                                                             Anmol Kumar Pandey 
                                                                                         B.Tech. CSE 6th Semester
-Department of Computer Science & Engineering         2023246738 CSI G1 
+Department of Computer Science & Engineering         2023400483 CSI G1 
 School Of Computing Sciences & Engineering
 Working of the Image Captioning Code using BLIP Model
 1. Introduction

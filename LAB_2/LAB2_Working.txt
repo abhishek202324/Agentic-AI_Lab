@@ -17,11 +17,12 @@ For
 B.Tech. (CSE) 6th Semester
 
 
-Submitted To:                                                         Submitted By:
-Mr. Ayush Singh                                                             Abhishek Kumar
+Submitted To:                                                        Submitted By:
+Mr. Ayush Singh                                                             Anmol Kumar Pandey 
                                                                                         B.Tech. CSE 6th Semester
-Department of Computer Science & Engineering         2023246738 CSI G1 
+Department of Computer Science & Engineering         2023400483 CSI G1 
 School Of Computing Sciences & Engineering
+
 Working of the Text Splitting Code (5 Levels of Text Splitting)
 1. Introduction
 The purpose of this notebook is to demonstrate text splitting techniques used in Natural Language Processing (NLP) and LLM-based applications such as:
